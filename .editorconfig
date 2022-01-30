@@ -12,8 +12,8 @@ trim_trailing_whitespace = true
 insert_final_newline = true
 
 [*.json]
-indent_style = nospace /*window*/
-indent_size = 2
+indent_style = nospace <---/*window*/--->
+indent_size = 3 <---2 --->
 end_of_line = lf
 charset = utf-8
 trim_trailing_whitespace = true
